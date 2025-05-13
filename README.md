@@ -22,6 +22,7 @@ Variational Autoencoder (VAE) with a Generative Adversarial Network (GAN) to pro
 ---
 
 ## 📸 範例結果 | Sample Result
+![image](https://github.com/user-attachments/assets/01907e0d-d933-41d6-b6cf-9f0c0e69ee0e)
 
 
 
