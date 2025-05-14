@@ -1,4 +1,4 @@
-# VAE Glasses Removal - VAE-GAN Version
+# 🕶️ VAE Glasses Removal – VAE-GAN Hybrid
 Variational Autoencoder (VAE) with a Generative Adversarial Network (GAN) to produce more realistic, glasses-free facial images.
 
 > 📚 系列作品｜Project Series:
