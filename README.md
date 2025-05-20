@@ -1,11 +1,12 @@
-# 🕶️ VAE Glasses Removal – VAE-GAN Hybrid
-Variational Autoencoder (VAE) with a Generative Adversarial Network (GAN) to produce more realistic, glasses-free facial images.
+# 🕶️ VAE Glasses Removal – Stylized Output Version
+Modified decoder and loss composition to explore alternative output styles. Not adversarial, but highly unstable.
 
 > 📚 系列作品｜Project Series:
-> - [Part 1: Basic VAE](https://github.com/VanessaTsai0828/vae-remove-glasses)
-> - [Part 2: Grayscale VAE](https://github.com/VanessaTsai0828/vae-remove-glasses-gray)
-> - [Part 3: VAE with VGG loss](https://github.com/VanessaTsai0828/vae-remove-glasses-vgg)
-> - [Part 4: VAE-GAN](https://github.com/VanessaTsai0828/vae-remove-glasses-gan)
+> - [Part 1: Baseline VAE](https://github.com/VanessaTsai0828/vae-glasses-v1-baseline)
+> - [Part 2: Grayscale VAE](https://github.com/VanessaTsai0828/vae-glasses-v2-grayinput)
+> - [Part 3: VAE with VGG Loss](https://github.com/VanessaTsai0828/vae-glasses-v3-vggloss)
+> - [Part 4: Stylized Output VAE](https://github.com/VanessaTsai0828/vae-glasses-v4-stylized)
+
 
 ---
 
